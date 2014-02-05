@@ -12,7 +12,7 @@ The Wall Street Journal published a story in 2011 that examined MetroCard usage 
 Installation
 ------------
 
-This example is available in the [VisTrails repository](http://github.com/vistrails/vistrails) and will be available in future releases.  These instructions are provided for users that wish to explore the example with the current (as of 2/5/2014) release (2.1.1). You will need [VisTrails 2.1.1](http://www.vistrails.org/index.php/Downloads/) for this example. The vistrail is mta.vt, but because it uses new and revised VisTrails packages, this repository also contains those three VisTrails packages:
+This example will soon be available in the [VisTrails repository](http://github.com/vistrails/vistrails) and will also be included in future releases.  These instructions are provided for users that wish to explore the example with the current (as of 2/5/2014) release (2.1.1). You will need [VisTrails 2.1.1](http://www.vistrails.org/index.php/Downloads/) for this example. The vistrail is mta.vt, but because it uses new and revised VisTrails packages, this repository also contains those three VisTrails packages:
 
 1. HTTP
 2. tabledata
